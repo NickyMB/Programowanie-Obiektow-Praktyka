@@ -1,0 +1,15 @@
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\bin\Debug\net6.0\Prostokat.exe
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\bin\Debug\net6.0\Prostokat.deps.json
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\bin\Debug\net6.0\Prostokat.runtimeconfig.json
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\bin\Debug\net6.0\Prostokat.dll
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\bin\Debug\net6.0\Prostokat.pdb
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\obj\Debug\net6.0\Prostokat.csproj.AssemblyReference.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\obj\Debug\net6.0\Prostokat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\obj\Debug\net6.0\Prostokat.AssemblyInfoInputs.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\obj\Debug\net6.0\Prostokat.AssemblyInfo.cs
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\obj\Debug\net6.0\Prostokat.csproj.CoreCompileInputs.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\obj\Debug\net6.0\Prostokat.dll
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\obj\Debug\net6.0\refint\Prostokat.dll
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\obj\Debug\net6.0\Prostokat.pdb
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\obj\Debug\net6.0\Prostokat.genruntimeconfig.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja1\Prostokat\obj\Debug\net6.0\ref\Prostokat.dll
