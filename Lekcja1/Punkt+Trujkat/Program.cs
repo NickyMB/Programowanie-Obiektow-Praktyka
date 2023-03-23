@@ -13,12 +13,13 @@ namespace Punkt
         {
             void zadanie1()
             {
-                Punkt p1 = new Punkt(2,3);
+                Punkt p1 = new Punkt(3,4);
+                Punkt p2 = new Punkt(0,0);
                 p1.Wyswielt();
                 p1.Przesun(1, 2);
                 p1.Wyswielt();
                 p1.Cofnij_Przesun();
-                p1.Wyswielt();
+                Console.WriteLine(Punkt.Odleglosc2punktuw(p1,p2));
             }
 
             void zadanie2()
@@ -39,7 +40,7 @@ namespace Punkt
                 Console.WriteLine($"{Environment.NewLine}Podaj nr. zadania od 1-2");
                 Console.WriteLine($"{Environment.NewLine}1-Punkt");
                 Console.WriteLine($"{Environment.NewLine}2-Trójkąt");
-                Console.WriteLine($"{Environment.NewLine}");
+                Console.WriteLine($"");
                 z_adania = Console.ReadLine();
                 switch (z_adania)
                 {
@@ -55,7 +56,7 @@ namespace Punkt
                         break;
                     default:
                         Console.Clear();
-                        Console.Write("Proszę o wybranie numeru zadania z zakresu 1 - 9");
+                        Console.Write("Proszę o wybranie numeru zadania z zakresu 1 - 2");
                         Console.WriteLine();
                         break;
                 }

@@ -8,7 +8,7 @@ namespace Punkt
 {
     internal class Punkt
     {
-        private int x , y, xp,yp;
+        private int x , y, xp, yp;
         public Punkt(int wsp_x, int wsp_y)
         {
             x = wsp_x;
@@ -29,6 +29,10 @@ namespace Punkt
         {
             x -= xp;
             y -= yp;
+        }
+        public static double Odleglosc2punktuw(Punkt pun1, Punkt pun2)
+        {
+            return Math.Sqrt((pun1.x - pun2.x)* (pun1.x - pun2.x)+ (pun1.y - pun2.y)*(pun1.y - pun2.y));
         }
     }
 }

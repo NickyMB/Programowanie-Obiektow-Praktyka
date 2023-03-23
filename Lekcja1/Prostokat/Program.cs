@@ -64,6 +64,7 @@ namespace ConsoleApplication15
                 x.Prezentuj();
             }
             Console.WriteLine($"Maksymalne pole wynosi: {Prostokat.max(prost)}");
+            Console.ReadKey();
         }
     }
 }

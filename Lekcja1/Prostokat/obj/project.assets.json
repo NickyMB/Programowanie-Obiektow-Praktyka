@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikol\\OneDrive\\WSB\\Programowanie-Obiektowe-Praktyka\\Lekcja1\\Prostokat\\Prostokat.csproj",
+      "projectUniqueName": "c:\\Users\\mikol\\OneDrive\\WSB\\Programowanie-Obiektowe-Praktyka\\Lekcja1\\Prostokat\\Prostokat.csproj",
       "projectName": "Prostokat",
-      "projectPath": "C:\\Users\\mikol\\OneDrive\\WSB\\Programowanie-Obiektowe-Praktyka\\Lekcja1\\Prostokat\\Prostokat.csproj",
+      "projectPath": "c:\\Users\\mikol\\OneDrive\\WSB\\Programowanie-Obiektowe-Praktyka\\Lekcja1\\Prostokat\\Prostokat.csproj",
       "packagesPath": "C:\\Users\\mikol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikol\\OneDrive\\WSB\\Programowanie-Obiektowe-Praktyka\\Lekcja1\\Prostokat\\obj\\",
+      "outputPath": "c:\\Users\\mikol\\OneDrive\\WSB\\Programowanie-Obiektowe-Praktyka\\Lekcja1\\Prostokat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
