@@ -1,0 +1,8 @@
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Czworobok\bin\Debug\Czworobok.exe.config
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Czworobok\bin\Debug\Czworobok.exe
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Czworobok\bin\Debug\Czworobok.pdb
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Czworobok\obj\Debug\Czworobok.csproj.AssemblyReference.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Czworobok\obj\Debug\Czworobok.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Czworobok\obj\Debug\Czworobok.csproj.CoreCompileInputs.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Czworobok\obj\Debug\Czworobok.exe
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Czworobok\obj\Debug\Czworobok.pdb

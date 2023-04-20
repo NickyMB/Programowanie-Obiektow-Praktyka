@@ -1,0 +1,8 @@
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Pracownik\bin\Debug\Pracownik.exe.config
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Pracownik\bin\Debug\Pracownik.exe
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Pracownik\bin\Debug\Pracownik.pdb
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Pracownik\obj\Debug\Pracownik.csproj.AssemblyReference.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Pracownik\obj\Debug\Pracownik.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Pracownik\obj\Debug\Pracownik.csproj.CoreCompileInputs.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Pracownik\obj\Debug\Pracownik.exe
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Pracownik\obj\Debug\Pracownik.pdb

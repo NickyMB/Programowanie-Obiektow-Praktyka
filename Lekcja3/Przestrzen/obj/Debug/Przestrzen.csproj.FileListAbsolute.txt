@@ -1,0 +1,8 @@
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Przestrzen\bin\Debug\Przestrzen.exe.config
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Przestrzen\bin\Debug\Przestrzen.exe
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Przestrzen\bin\Debug\Przestrzen.pdb
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Przestrzen\obj\Debug\Przestrzen.csproj.AssemblyReference.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Przestrzen\obj\Debug\Przestrzen.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Przestrzen\obj\Debug\Przestrzen.csproj.CoreCompileInputs.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Przestrzen\obj\Debug\Przestrzen.exe
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja3\Przestrzen\obj\Debug\Przestrzen.pdb

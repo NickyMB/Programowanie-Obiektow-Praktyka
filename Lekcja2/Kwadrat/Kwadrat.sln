@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kwadrat", "Kwadrat.csproj", "{49ACDA8E-B08C-45B0-A1EE-C36F78E76FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49ACDA8E-B08C-45B0-A1EE-C36F78E76FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49ACDA8E-B08C-45B0-A1EE-C36F78E76FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49ACDA8E-B08C-45B0-A1EE-C36F78E76FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49ACDA8E-B08C-45B0-A1EE-C36F78E76FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C14C8B0C-5C87-40C3-9D53-534F384B63A3}
+	EndGlobalSection
+EndGlobal

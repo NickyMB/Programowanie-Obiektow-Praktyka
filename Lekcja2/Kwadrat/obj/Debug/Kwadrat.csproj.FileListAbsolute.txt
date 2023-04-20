@@ -1,0 +1,8 @@
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja2\Kwadrat\obj\Debug\Kwadrat.csproj.AssemblyReference.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja2\Kwadrat\obj\Debug\Kwadrat.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja2\Kwadrat\obj\Debug\Kwadrat.csproj.CoreCompileInputs.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja2\Kwadrat\bin\Debug\Kwadrat.exe.config
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja2\Kwadrat\bin\Debug\Kwadrat.exe
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja2\Kwadrat\bin\Debug\Kwadrat.pdb
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja2\Kwadrat\obj\Debug\Kwadrat.exe
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja2\Kwadrat\obj\Debug\Kwadrat.pdb
