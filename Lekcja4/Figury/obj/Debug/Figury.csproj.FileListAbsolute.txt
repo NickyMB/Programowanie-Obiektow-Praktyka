@@ -1,0 +1,8 @@
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Figury\bin\Debug\Figury.exe.config
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Figury\bin\Debug\Figury.exe
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Figury\bin\Debug\Figury.pdb
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Figury\obj\Debug\Figury.csproj.AssemblyReference.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Figury\obj\Debug\Figury.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Figury\obj\Debug\Figury.csproj.CoreCompileInputs.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Figury\obj\Debug\Figury.exe
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja4\Figury\obj\Debug\Figury.pdb
