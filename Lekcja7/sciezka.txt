@@ -1,0 +1,60 @@
+using System;
+using System.Collections.Generic;
+
+namespace ConsoleApp392
+{
+
+    struct Punkt
+    {
+        public int x, y;
+
+        public Punkt(int wsp_x, int wsp_y)
+        {
+            x = wsp_x; y = wsp_y;
+        }
+
+        public static double Odleglosc(Punkt pkt1, Punkt pkt2)
+        {
+            return Math.Sqrt(Math.Pow(pkt1.x - pkt2.x, 2) + Math.Pow(pkt1.y - pkt2.y, 2));
+        }
+
+
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<Punkt> Sciezka = new List<Punkt>();
+            double odl;
+            int x, y;
+            int n=1;
+            do
+            {
+                
+                Console.Write("Podaj wspolrzedna x punktu (" + n + ") ");
+                x = Convert.ToInt32(Console.ReadLine());
+
+                Console.Write("Podaj wspolrzedna y punktu (" + n + ") ");
+                y = Convert.ToInt32(Console.ReadLine());
+           
+                Sciezka.Add(new Punkt(x, y));
+                if (n > 1)
+                {
+                    odl = 0;
+                    for (int i = 0; i < Sciezka.Count - 1; i++)
+                    {
+                        odl += Punkt.Odleglosc(Sciezka[i], Sciezka[i + 1]);
+                    }
+
+                    Console.WriteLine("Suma odleglosc miedzy kolejnymi punktami: {0:f2}", odl);
+                }
+                n += 1;
+
+            } while (n <= 5);
+
+            odl = Punkt.Odleglosc(Sciezka[0], Sciezka[Sciezka.Count - 1]);
+            Console.WriteLine("Odleglosc miedzy pierwszym, a ostatnim punktem: {0:f2}", odl);
+            Console.ReadKey();
+        }
+    }
+}

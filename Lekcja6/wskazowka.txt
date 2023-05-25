@@ -1,0 +1,3 @@
+Aplikacja okienkowa jest tworzona na bazie szablonu:
+Aplikacja Windows Forms
+W przypadku aplikacji, gdy ktoś sobie nieopatrznie zamknie zakładkę "Project" (tą z formularzem), to można ją ponowie dodać przez polecenie: Widok/Projektant
