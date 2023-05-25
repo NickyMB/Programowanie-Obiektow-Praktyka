@@ -1,0 +1,11 @@
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja6\Otsetki\bin\Debug\Otsetki.exe.config
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja6\Otsetki\bin\Debug\Otsetki.exe
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja6\Otsetki\bin\Debug\Otsetki.pdb
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja6\Otsetki\obj\Debug\Otsetki.csproj.AssemblyReference.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja6\Otsetki\obj\Debug\Otsetki.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja6\Otsetki\obj\Debug\Otsetki.Form1.resources
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja6\Otsetki\obj\Debug\Otsetki.Properties.Resources.resources
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja6\Otsetki\obj\Debug\Otsetki.csproj.GenerateResource.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja6\Otsetki\obj\Debug\Otsetki.csproj.CoreCompileInputs.cache
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja6\Otsetki\obj\Debug\Otsetki.exe
+C:\Users\mikol\OneDrive\WSB\Programowanie-Obiektowe-Praktyka\Lekcja6\Otsetki\obj\Debug\Otsetki.pdb
